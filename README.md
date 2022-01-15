@@ -1,3 +1,8 @@
+<b>This repository has been moved to ["Magisk-Modules-Alt-Repo"](https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker).</b>
+<br/>
+<br/>
+<br/>
+
 ## Unlocker for the USB audio class (USB HAL) driver's limitation (upto 96kHz lock) on Android devices
 
 This magisk module has been developed for recent music streaming services which output greater than 96kHz high resolution sound, and behaves as follows:
